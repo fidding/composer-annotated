@@ -1,0 +1,10 @@
+{
+    "name": "hongjiahuang/composer",
+    "authors": [
+        {
+            "name": "洪加煌",
+            "email": "hongjiahuang@xiaoyouzi.com"
+        }
+    ],
+    "require": {}
+}
